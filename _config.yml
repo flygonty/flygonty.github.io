@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "flygonty's / blog"
+title                    : "flygonty's blog"
 title_separator          : "-"
 name                     : &name "Tsung-Wei, Liu"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tsung-Wei"
+  name             : "Tsung-Wei, Liu"
   pronouns         : # example: "she/her"  
   bio              : #""
   location         : "Taipei, Taiwan"
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
